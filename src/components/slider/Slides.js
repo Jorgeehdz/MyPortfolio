@@ -15,7 +15,7 @@ const slidesInfo = [
         desc: "Redux React CRUD"
     },
     {
-        src: "https://user-images.githubusercontent.com/51522362/121953943-cbb33180-cd23-11eb-9fea-8baa5fa062d5.png",
+        src: "https://user-images.githubusercontent.com/51522362/122141045-2460f800-ce12-11eb-8521-76575302b941.png",
         url: "https://presupuestodineroreactjs.netlify.app/",
         alt: "Gasto Semanal",
         desc: "Calcular Presupuesto"
