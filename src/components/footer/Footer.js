@@ -5,8 +5,8 @@ const Footer = () => {
     return (
         <footer className="footer">
             <div className="footer-info">
-                <h1>Jorge Alberto Hernandez Sanchez</h1>
-                <p>Based in Saltillo, Coahuila, Mexico</p>
+                <h1>Jorge Alberto Hernández Sánchez</h1>
+                <p>Based in Saltillo, Coahuila, México</p>
             </div>
             <div className="footer-contact">
                 <h3>Contact me</h3>
