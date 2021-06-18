@@ -15,6 +15,12 @@ const slidesInfo = [
         desc: "Redux React CRUD"
     },
     {
+        src: "https://user-images.githubusercontent.com/51522362/122592280-b262fb80-d029-11eb-839c-cde07365420b.png",
+        url: "https://rickandmortywebpack.netlify.app/",
+        alt: "Rick & Morty Webpack API",
+        desc: "Rick & Morty Webpack API"
+    },
+    {
         src: "https://user-images.githubusercontent.com/51522362/122141045-2460f800-ce12-11eb-8521-76575302b941.png",
         url: "https://presupuestodineroreactjs.netlify.app/",
         alt: "Gasto Semanal",
