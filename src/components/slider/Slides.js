@@ -3,6 +3,12 @@ import './slider.css';
 
 const slidesInfo = [
     {
+        src: "https://user-images.githubusercontent.com/51522362/124514883-aace8100-dda3-11eb-93bd-6f01da2a2e1d.png",
+        url: "https://github.com/Jorgeehdz/ResponsiveTravelWebsite",
+        alt: "Responsive Travel Website",
+        desc: "Responsive Travel Website"
+    },
+    {
         src: "https://user-images.githubusercontent.com/51522362/122074959-4c733b80-cdbf-11eb-996d-07df28d605e1.png",
         url: "https://github.com/Jorgeehdz/MernTask-Cliente",
         alt: "MernTasks",
