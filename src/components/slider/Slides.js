@@ -4,7 +4,7 @@ import './slider.css';
 const slidesInfo = [
     {
         src: "https://user-images.githubusercontent.com/51522362/124514883-aace8100-dda3-11eb-93bd-6f01da2a2e1d.png",
-        url: "https://github.com/Jorgeehdz/ResponsiveTravelWebsite",
+        url: "https://responsivetravelwebsite.netlify.app/",
         alt: "Responsive Travel Website",
         desc: "Responsive Travel Website"
     },
